@@ -1,1 +1,0 @@
-from arDCA_paths.models import arDCA_paths
